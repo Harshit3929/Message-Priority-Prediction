@@ -1,0 +1,9 @@
+message,correct_answer
+"URGENT!!! Need the WiFi password for the guest network ASAP!!! This is extremely urgent, please treat as top priority!",low
+"Small thing, but the customer database appears to have been wiped last night. No rush, whenever someone gets a chance.",critical
+"EMERGENCY - someone has taken my mug from the kitchen again. I need this resolved immediately, it is the third time!!!",low
+"Minor note: card payments have been declining for every customer since about 9am. Probably nothing, low priority I imagine.",critical
+"TIME CRITICAL!!! The font on my slide deck template is wrong and I must have it fixed before end of day, this is blocking me!",low
+When you have a moment - it looks like external accounts can read our internal HR folder. Might just be me. No hurry.,critical
+Please escalate to your manager ASAP. My parking permit has still not arrived and I am still waiting after two days. Unacceptable.,low
+Just logging that the warehouse scanner fleet stopped talking to the API gateway overnight so nothing has shipped today. Thanks!,critical

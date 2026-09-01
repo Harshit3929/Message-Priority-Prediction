@@ -1,0 +1,72 @@
+group,phrase,expected,remove_in_test
+urgency,urgent,up,yes
+urgency,urgently,up,yes
+urgency,asap,up,yes
+urgency,immediately,up,yes
+urgency,right away,up,yes
+urgency,straight away,up,yes
+urgency,critical,up,yes
+urgency,emergency,up,yes
+urgency,at once,up,yes
+urgency,time critical,up,yes
+urgency,top priority,up,yes
+impact,all customers,up,no
+impact,everyone,up,no
+impact,every branch,up,no
+impact,company-wide,up,no
+impact,all users,up,no
+impact,whole company,up,no
+impact,entire,up,no
+impact,nationwide,up,no
+impact,all regions,up,no
+impact,whole office,up,no
+broken,down,up,no
+broken,outage,up,no
+broken,cannot,up,no
+broken,can't,up,no
+broken,unable,up,no
+broken,not working,up,no
+broken,failed,up,no
+broken,failing,up,no
+broken,broken,up,no
+broken,crashed,up,no
+broken,stopped,up,no
+broken,offline,up,no
+broken,blocked,up,no
+broken,no longer,up,no
+broken,lost access,up,no
+broken,wiped,up,no
+deadline,by end of day,up,yes
+deadline,eod,up,yes
+deadline,today,up,yes
+deadline,tonight,up,yes
+deadline,deadline,up,yes
+deadline,within the hour,up,yes
+deadline,by tomorrow,up,yes
+escalation,escalate,up,yes
+escalation,escalating,up,yes
+escalation,manager,up,yes
+escalation,director,up,yes
+escalation,flagged,up,yes
+escalation,formally,up,yes
+escalation,raising this,up,yes
+polite,no rush,down,no
+polite,no hurry,down,no
+polite,whenever,down,no
+polite,when you get a chance,down,no
+polite,if you have time,down,no
+polite,sorry to bother,down,no
+polite,low priority,down,no
+polite,minor,down,no
+polite,small thing,down,no
+polite,not urgent,down,no
+polite,at your convenience,down,no
+hedge,seems,down,no
+hedge,appears,down,no
+hedge,might,down,no
+hedge,possibly,down,no
+hedge,maybe,down,no
+hedge,i think,down,no
+hedge,probably,down,no
+hedge,could be,down,no
+hedge,not sure,down,no
